@@ -2,37 +2,37 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "This is a Sample Question 1?",
+      "question": "1.What is the primary function of Scanning Electron Microscopy (SEM) in materials science?",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "To measure magnetic properties",
+        "b": "To perform chemical reactions",
+        "c": "To provide high-resolution imaging and analysis of sample surfaces and microstructures",
+        "d": "To assess thermal conductivity"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "a": "Explanation 1",
         "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
-      },
-      "correctAnswer": "a",
-      "difficulty": "beginner"
-    },
-    {
-      "question": "This is a Sample Question 2?",
-      "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
-      },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
+        "c": "Explanation 3 <a href='www.google.com'>here</a>",
         "d": "Explanation 2"
       },
       "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "2.Which SEM imaging mode utilizes elastically scattered high-energy electrons to provide compositional contrast?",
+      "answers": {
+        "a": "Through-Lens Detection (TLD)",
+        "b": "Backscattered Electron Imaging (BSE)",
+        "c": "Electron Backscatter Diffraction (EBSD)",
+        "d": "Secondary Electron Imaging (SEI)"
+      },
+      "explanations": {
+        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "b": "Explanation 2 Backscattered Electron Imaging (BSE)",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "b",
       "difficulty": "beginner"
     }
   ]
