@@ -22,4 +22,4 @@ Fill a brief description of this experiment here
 SrNo | Name | Faculty or Student | Department| Institute | Email id
 :--|:--|:--|:--|:--|:--|
 1 | Sachin Sharma| Student | Computer Science and Engineering | Bundelkhand University Jhansi | sharmasachin95880@gmail.com
-<!-- 2 | Dr Anupam Vyas| Faculty| . | . | . -->
+
