@@ -34,6 +34,69 @@
       },
       "correctAnswer": "b",
       "difficulty": "beginner"
+    },
+    {
+      "question": "3.In Backscattered Electron Imaging (BSE), what causes certain areas of the image to appear brighter?",
+      "answers": {
+        "a": "Higher surface roughness",
+        "b": "Higher electron beam energy",
+        "c": "Higher atomic number elements",
+        "d": "Lower atomic number elements"
+      },
+      "explanations": {
+        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "b": "Explanation 2",
+        "c": "Explanation 3 Higher atomic number elements",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "c",
+      "difficulty": "Intermediate"
+    },
+    {
+      "question": "4.What is the advantage of Through-Lens Detection (TLD) in SEM?",
+      "answers": {
+        "a": "It only detects backscattered electrons",
+        "b": "It enhances detection efficiency and allows for simultaneous detection of SE, BSE, and transmitted electrons.",
+        "c": "It detects X-rays emitted from the sample",
+        "d": "It provides information solely on crystallographic orientation."
+      },
+      "explanations": {
+        "b": "Explanation 2 It enhances detection efficiency and allows for simultaneous detection of SE, BSE, and transmitted electrons."
+     
+      },
+      "correctAnswer": "b",
+      "difficulty": "Intermediate"
+    },
+    {
+      "question": "5.How does Energy-Dispersive X-ray Spectroscopy (EDS) contribute to SEM analysis?",
+      "answers": {
+        "a": "By detecting the magnetic properties of the sample",
+        "b": "By generating maps that show the distribution of different elements across the sample surface",
+        "c": "By capturing high-resolution images of surface topography",
+        "d": "By determining the grain size of polycrystalline materials"
+      },
+      "explanations": {
+        "b": "Explanation b. By generating maps that show the distribution of different elements across the sample surface"
+     
+      },
+      "correctAnswer": "b",
+      "difficulty": "Intermediate"
+    },
+    {
+      "question": "6.What does SEM stand for in the context of materials science?",
+      "answers": {
+        "a": "Scanning Electron Microscopy",
+        "b": "Surface Element Mapping",
+        "c": "Structural Energy Mapping",
+        "d": "Secondary Electron Microscopy"
+      },
+      "explanations": {
+        "b": "Explanation 1 Scanning Electron Microscopy"
+     
+      },
+      "correctAnswer": "A",
+      "difficulty": "Intermediate"
     }
+    
   ]
 }
